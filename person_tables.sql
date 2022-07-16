@@ -1,6 +1,6 @@
 /*
 
-This code was  written to show sql features!
+This code was  written to show sql commands!
 
 First, Let me create a sql table! 
 
